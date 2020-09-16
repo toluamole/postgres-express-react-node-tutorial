@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "Toluwanimi",
+    "password": "Babatunde",
+    "database": "todos-dev",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "test": {
+    "username": "Toluwanimi",
+    "password": "Babatunde",
+    "database": "todos-test",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  },
+  "production": {
+    "username": "Toluwanimi",
+    "password": "Babatunde",
+    "database": "todos-production",
+    "host": "127.0.0.1",
+    "port": 5432,
+    "dialect": "postgres"
+  }
+}
